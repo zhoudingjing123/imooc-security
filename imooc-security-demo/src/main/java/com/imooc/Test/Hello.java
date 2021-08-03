@@ -7,6 +7,9 @@ package com.imooc.Test;
  */
 public class Hello{
     public static void main(String[] args) {
-        System.out.println("ninhao");
+        System.out.println("您好");
+        System.out.println("您好");
+        System.out.println("您好");
+        System.out.println("您好");
     }
 }

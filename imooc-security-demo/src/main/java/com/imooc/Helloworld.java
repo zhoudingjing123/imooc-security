@@ -5,5 +5,5 @@ package com.imooc;
  * @Description:
  * @Date:
  */
-public class Hello {
+public class Helloworld {
 }
